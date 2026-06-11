@@ -11,15 +11,15 @@ Open `index.html` in a browser, or visit the deployed site.
 **Click the canvas** to capture the mouse, then:
 
 - **Mouse** — look around
-- **WASD** — move
-- **Left click** — dig (lower a block / dig into the ground)
-- **Right click** — build (raise a block / stack a tower)
+- **WASD** — move,  **Space** — jump
+- **Left click** — dig a block (look straight down to dig down into the ground)
+- **Right click** — build a block (look straight down to pillar straight up)
 - **1–4** — pick which block to build with
-- **C** — your Wigglitz collection
-- **Esc** — release the mouse
+- **C** — collection,  **H** — help,  **Esc** — menu
 - **-** / **+** — mouse sensitivity
 
-Find all the Wigglitz scattered across the world to complete your collection.
+Find all the Wigglitz scattered across the world to complete your collection,
+and unlock achievements for building, digging, and collecting.
 
 ## Deploy (Vercel)
 
